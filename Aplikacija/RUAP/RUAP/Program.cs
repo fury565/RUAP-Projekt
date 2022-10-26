@@ -6,7 +6,7 @@ namespace RUAP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav od Brune Lichta, index:5");
+            Console.WriteLine("Nova poruka");
         }
     }
 }
